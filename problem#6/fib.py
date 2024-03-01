@@ -1,10 +1,10 @@
 def fibonacci(n):
     #write your code here         
-    if start_num < 0 :
+    if n < 0 :
         return -1
-    elif start_num == 0 :
+    elif n == 0 :
         return 0
-    elif start_num == 1 :
+    elif n == 1 :
         return 1
     else : 
         fib = [0, 1]
