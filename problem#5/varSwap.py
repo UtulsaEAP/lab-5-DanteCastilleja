@@ -13,5 +13,5 @@ if __name__ == '__main__':
    user_input4 = int(input())
    #store output for every input here
    #print those output
-   swapped = swap_values(user_input2, user_input1, user_input4, user_input4)
+   swapped = swap_values(user_input2, user_input1, user_input4, user_input3)
    print(*swapped)
